@@ -4,6 +4,7 @@
 
 
 ### THUẬT TOÁN HỌC MÁY
+[![MACHINE LEARNING SUMMARY]([https://github.com/SlowJii/IBM-Data-Engineering-Python-for-Data-Science/blob/main/certificate.jpeg](https://github.com/SlowJii/PTIT-CNN-Prediction-Cardiovascular/blob/main/the-world-of-machine-learning-algorithms-a-summary.jpg)?raw=true)]([https://github.com/SlowJii/IBM-Data-Engineering-Python-for-Data-Science/blob/main/certificate.jpeg](https://github.com/SlowJii/PTIT-CNN-Prediction-Cardiovascular/blob/main/the-world-of-machine-learning-algorithms-a-summary.jpg)?raw=true)
 
 1. Thuật toán hồi quy (Regression Algorithms):
 Các thuật toán hồi quy dự đoán giá trị liên tục dựa trên mối quan hệ giữa các biến
