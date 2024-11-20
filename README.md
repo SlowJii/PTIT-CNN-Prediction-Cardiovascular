@@ -4,6 +4,8 @@
 
 
 ### THUẬT TOÁN HỌC MÁY
+![MACHINE LEARNING SUMMARY](https://github.com/SlowJii/PTIT-CNN-Prediction-Cardiovascular/blob/main/the-world-of-machine-learning-algorithms-a-summary.jpg?raw=true)
+
 
 Định nghĩa: 
 - Học máy (Machine Learning) là một nhánh của trí tuệ nhân tạo
