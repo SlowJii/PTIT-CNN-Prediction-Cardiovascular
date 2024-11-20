@@ -5,6 +5,12 @@
 
 ### THUẬT TOÁN HỌC MÁY
 
+Định nghĩa: 
+- Học máy (Machine Learning) là một nhánh của trí tuệ nhân tạo
+- Các thuật toán giúp máy tính có thể học hỏi từ dữ liệu để giải quyết vấn đề cụ thể
+
+
+
 1. Thuật toán hồi quy (Regression Algorithms):
 Các thuật toán hồi quy dự đoán giá trị liên tục dựa trên mối quan hệ giữa các biến
 - Hồi quy tuyến tính (Linear Regression): Mô hình dự đoán dựa trên mối quan hệ tuyến tính giữa các biến đầu vào và biến đầu ra. Mục tiêu là tìm đường hồi quy tốt nhất để tối thiểu hóa sai số giữa các giá trị dự đoán và giá trị thực 
