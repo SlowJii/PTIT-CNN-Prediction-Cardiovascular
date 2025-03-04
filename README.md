@@ -5,7 +5,7 @@
 ![PTIT](https://img.shields.io/badge/PTIT-black?style=for-the-badge&logo=PTIT&logoColor=white&link=https%3A%2F%2Fptit.edu.vn%2F)
 
 
-### THUẬT TOÁN HỌC MÁY
+### Work flow
 
 ![MACHINE LEARNING SUMMARY](https://github.com/SlowJii/PTIT-CNN-Prediction-Cardiovascular/blob/main/the-world-of-machine-learning-algorithms-a-summary.jpg?raw=true)
 
